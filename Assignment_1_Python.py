@@ -29,10 +29,6 @@ countries.remove("Country")
 #sorting countries list
 countries.sort()
 
-#for i in countries:
-#    print(i)
-#    print("\n")
-
 #initializing each element in the dictionary to be 0
 for i in countries:
     country_num[i] = 0
