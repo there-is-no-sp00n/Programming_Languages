@@ -62,7 +62,6 @@ for(my $i = 0; $i<$count; $i++)
 		}
 }
 
-
 #PART 2
 for(my $i = 0; $i<$count; $i++)
 {
@@ -74,7 +73,7 @@ print("\n");
 $myfile = "data.csv";
 open ($fh, '<', $myfile) or die "Can't open $myfile: $!";
 
-#PART 3
+#PART 3 (EXTRA CREDIT)
 while(my $line = <$fh>)
 	{
 		@row = split(",", $line);
