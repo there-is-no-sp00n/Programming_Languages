@@ -38,13 +38,8 @@ for i in range(0, len(x)):
 #plotting task 1
 plt.plot(x1, y)
 
-#for i in range(0, len(x)):
-#	x1[i] = x[i]
-
 #giving the months on the x-axis vertical orientation (EXTRA CREDIT)
 plt.xticks(range(0, len(x)), x, rotation='vertical')
-
-
 
 #here counting up the total sales per year
 counter = 0;
@@ -67,13 +62,37 @@ for i in range(0, len(yearly_avg)):
 		avg_plot.append(yearly_avg[i])
 
 #give the second plot red color
+#add the x & y axis labels and finally the graph title
 plt.plot(x1, avg_plot, 'r-')
+plt.xlabel('Months')
+plt.ylabel('Sales')
+plt.title('Months vs Sales')
 plt.show()
-#print(x)
-#print(y)
-#print(len(x))
 
-#print(yearly_avg)
-#print(avg_plot)
+
+
+#tasks 3,4, and 5 here
+import re
+
+da_file = open('sample.txt','r')
+da_result = da_file.read()
+
+final = re.findall('<i>(.*?)</i>', da_result, flags=re.DOTALL)
+
+to_file = open('axa8368.txt','w')
+for i in final:
+	to_file.write(i)
+to_file.close()
+
+da_file = open('axa8368.txt', 'r')
+da_result = da_file.read()
+
+a = re.findall("Avengers", da_result, re.IGNORECASE)
+
+da_result = re.sub("Avengers", "Vengadores", da_result, flags=re.IGNORECASE)
+
+to_file = open('axa8368_ES.txt', 'w')
+to_file.write(da_result)
+to_file.close()
 
 
