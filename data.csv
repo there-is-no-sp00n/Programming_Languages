@@ -1,150 +1,97 @@
-Name,University/Company,Country
-Abdallah Ali Z. A. Ibrahim,University of Luxembourg,Luxembourg
-Akila Siriweera,University of Aizu,Japan
-Aly Megahed,IBM Research,USA
-andrea delgado,universidad de la republica,uruguay
-Babak Ravandi,Purdue University,USA
-Bhathiya Supun,University of Moratuwa,Sri Lanka
-Bin Cao,Hebei University of Technology,China
-John Smith,Macquarie University,Australia
-Bongjin Sohn,KAIST,South Korea
-Budan Wu,Beijing University of Posts and Communications,China
-Cheng Wang,Pennsylvania State University,China
-Chengyu Dong,Alibaba Cloud Computing,China
-Dixin Tang,The University of Chicago,USA
-Dong Yuan,The University of Sydney,Australia
-Fan Liang,University of New Brunswick,Canada
-Fang Liu,National University of Defense Technology,China
-Fathoni Arief Musyaffa,University of Bonn,Germany
-Ferdous Ahmed Barbhuiya,Indian Institute of Information Technology Guwahati,India
-Gregory Van Seghbroeck,Ghent University,Belgium
-Guangming Cui,Anhui University,China
-Guoquan Wu,"Institute of Software,Chinese Academy of Sciences",China
-Hamad Witti,University of Lyon 3,France
-Hee Won Lee,AT&T Labs Research,USA
-Huankai Chen,University of Kent,UK
-Huiyu Sun,New York University,United States
-Hyeeun Cho,KAIST,South Korea
-In Kee Kim,University of Virginia,USA
-Jery(ShaoChun) Li,IBM Research - China,China
-Jia Chen,Shandong University,China
-Jiangbin Lin,Alibaba Cloud Computing,China
-Jiaxing Wang,Zhejiang University of Technolofy,China
-Jinhui Yao,Xerox ,USA
-Jiuyun Xu,China University of Petroleum Qingdao,China
-Jiwei Huang,Beijing University of Posts and Telecommunications,China
-Jun Zou,Macquarie University,Australia
-Kaixu Liu,University of Pavia,Italy
-Kerolos Lotfy,University of Nebraska at Omaha,USA
-Khadij Bousselmi,Faculty of sciences of Tunisia; RIADI Laboratory,Tunisia
-Krishna Khamankar,Vidyalankar Institute of Technology,India
-Li Duan,BUPT,China
-Li Kuang,Central South University,China
-Maycon Leone Maciel Peixoto,Federal University of Bahia,Brazil
-Mehdi Boukhechba,University Of Quebec At Chicoutimi,Canada
-Min Yang,National University of Defense Technology,China
-Mingzhu Deng,National University of Defense Technology,China
-Mohammad Maifi Hasan Khan,University of Connecticut,USA
-Nhien-An Le-Khac,University College Dublin,Ireland
-Nidhiben Solanki,University of Texas at Dallas,USA
-Nong Xiao,National University of Defense Technology,China
-Omar Abdul Wahab,Concordia University,Canada
-Paul S. Pang ,Unitec Institute of Technology,New Zealand 
-Peter Hillmann,Universität der Bundeswehr München,Germany
-Pradeeban Kathiravelu,Universidade de Lisboa,Portugal
-Qiang He,"Swinburne University of Technology, Australia",Australia
-Ragib Hasan,University of Alabama at Birmingham,USA
-Rasib Khan,Northern Kentucky University,USA
-Raymond Wong,University of New South Wales,Australia
-Ridwan Shariffdeen,University of Moratuwa,Sri Lanka
-Ruisheng Shi,Beijing University of Posts and Telecommunications,China
-Sachin Shetty,Tennessee State University,USA
-Saeideh Alinezhad,Sharif University of Technology,Iran
-Sainath Gadhamsetty Kasi,Samsung Research India Bangalore,India
-Samantha Kumara,Sabaragamuwa University,Sri Lanka
-Samneet Singh,Concordia University,Canada
-Sanjay Patel,"LDRP-ITR, CHARUSAT",India
-Saptarshi Debroy,University of Missouri,USA
-Shanqing Guo,Shandong University,China
-Shenglin Zhao,The Chinese University of Hong Kong,China
-Shijun Liu,Shandong University,China
-Shunmei Meng,Nanjing University,China
-Shyam S. Wagle,University of Luxembourg,Luxembourg
-Songping Yu,National University of Defense Technology,China
-Suresh Kumar Gudla,Samsung Research India Bangalore,India
-Tianyi Ma,Universita di Pavia,Italy
-Tianyu Jia,Tsinghua University,China
-Upa Gupta,University of Texas at Arlington,United States
-Wei Chen,National University of Defense Technology,China
-Wei Tan,IBM Research,USA
-Wenqi Cao,Georgia Tech,USA
-Wondeuk Yoon,KAIST,South Korea
-Xiaoke Wang,The University of Hong Kong,China
-Xiaoliang Fan,Lanzhou University,China
-Xiaolong Xu,Nanjing University,China
-Xiaoyong Yuan,University of Florida,USA
-Xin Zhou,Kyoto University,Japan
-Xuan Zhao,Beijing University of Posts and Telecommunications,China
-Xudong Zhao,Shandong University,China
-Yabin Dang,IBM Research China,China
-Yanchun Sun,Peking University,China
-Yang Luo,Peking University,China
-Yi Ge,IBM,China
-Yi Liu,Peking University,China
-Yibin Liao,Univerity of Georgia,USA
-Yiming Zhang,National University of Defense Technology,China
-Yu Zhao,Queen's University,Canada
-Yue Hu,Zhejiang University,China
-Yunpeng Li,Southeast University,China
-Zehui Cheng,"China University of Geosciences, Beijing",China
-Zhe Jiang,Beijing University of Posts and Telecommunications,China
-Zhengzhe Xiang,Zhejiang University,China
-Zhiying  Tu,Harbin Institute of Technology,China
-Zujie Ren,Hangzhou Dianzi Univeristy,China
-Jinliang Xu,Beijing University of Posts and Telecommunications,China
-Bobaker Mohamed Abdulali Madi,University of Benghazi,Libya
-Yanni Han,Chinese Academy of Sciences,China
-Samiul Arshad,Queen's University,Canada
-Rafael Weingärtner,Federal University of Santa Catarina (UFSC),Brazil
-Mohamed Adel Serhani,UAE University,UAE
-Carlos Henrique Gomes Ferreira,Federal University of Minas Gerais (UFMG),Brazil
-Shaleen Agarwal,Rochester Institute of Technology,USA
-Dionisio Machado Leite Filho,Federal University of Mato Grosso do Sul (UFMS),Brazil
-Daniel Müller,ETH Zürich,Switzerland
-rob,Peking University,China
-Abdullah Abdullah,University of Guelph,Canada
-Marigianna Skouradaki,University of Stuttgart,Germany
-Haoran Xu,Shandong University,China
-Fawaz PARAISO,INRIA,France
-Haleh Shahzad,McMaster University,Canada
-Jiajie Shen,Fudan University,China
-Kugamoorthy Gajananan,IBM Research ,Japan
-Guillaume Rosinosky,Bonitasoft / INRIA,France
-Anthony Ayodele ,Univerity of Colorado Colorado Springs ,USA
-Jinwei Liu,Clemson University,USA
-Mohamed Mohamed,IBM Research Almaden,USA
-Jing Li,Concordia University,Canada
-Chang Liu,Fudan University,China
-Rami Bahsoon,"University of Birmingham, UK",UK
-Yongrui Qin,University of Huddersfield,UK
-Jian Wang,Wuhan University ,China
-Bedir Tekinerdogan,Wageningen University,The Netherlands
-Julio Cezar Estrella,University of São Paulo,Brazil
-Saima Noreen,Fast-NUCES,Pakistan
-Jin-Seo Lee,KAIST, South Korea
-Zaiwen Feng,Wuhan University ,China
-Xiao Liu,Deakin University,Australia
-Zafer Alqarni,Queensland University of Technology ,Australia
-Qiyun He,Simon Fraser University,Canada
-Xianqiang Bao,National University of Defense Technology,China
-Mingkun Yang,Institute of Software Chinese Academy of Sciences,China
-Qi Gu,Shanghai Jiao Tong University,China
-Haoshu Fang,Shanghai Jiao Tong University,China
-Qingyang Wang,Louisiana State University,USA
-Zhenfeng Gao,Tsinghua University,China
-Shuhui Chen,Tsinghua University,China
-Weidong Wang,Beijing Jiaotong University ,China
-Xinyu Wang,Zhejiang University,China
-Thanasis Papaioannou,Athens University of Economics and Business,Greece
-Walter Priesnitz Filho,Universidade de Lisboa,Portugal
-Divya Rao,Nanyang Technological University,Singapore
+Month,Sales
+Jan-89,6028
+Feb-89,5927
+Mar-89,10515
+Apr-89,32276
+May-89,51920
+Jun-89,31294
+Jul-89,23573
+Aug-89,36465
+Sep-89,18959
+Oct-89,13918
+Nov-89,17987
+Dec-89,15294
+Jan-90,16850
+Feb-90,12753
+Mar-90,26901
+Apr-90,61494
+May-90,147862
+Jun-90,57990
+Jul-90,51318
+Aug-90,53599
+Sep-90,23038
+Oct-90,41396
+Nov-90,19330
+Dec-90,22707
+Jan-91,15395
+Feb-91,30826
+Mar-91,25589
+Apr-91,103184
+May-91,197608
+Jun-91,68600
+Jul-91,39909
+Aug-91,91368
+Sep-91,58781
+Oct-91,59679
+Nov-91,33443
+Dec-91,53719
+Jan-92,27773
+Feb-92,36653
+Mar-92,51157
+Apr-92,217509
+May-92,206229
+Jun-92,110081
+Jul-92,102893
+Aug-92,128857
+Sep-92,104776
+Oct-92,111036
+Nov-92,63701
+Dec-92,82657
+Jan-93,31416
+Feb-93,48341
+Mar-93,85651
+Apr-93,242673
+May-93,289554
+Jun-93,164373
+Jul-93,160608
+Aug-93,176096
+Sep-93,142363
+Oct-93,114907
+Nov-93,113552
+Dec-93,127042
+Jan-94,51604
+Feb-94,80366
+Mar-94,208938
+Apr-94,263830
+May-94,252216
+Jun-94,219566
+Jul-94,149082
+Aug-94,213888
+Sep-94,178947
+Oct-94,133650
+Nov-94,116946
+Dec-94,164154
+Jan-95,58843
+Feb-95,82386
+Mar-95,224803
+Apr-95,354301
+May-95,328263
+Jun-95,313647
+Jul-95,214561
+Aug-95,337192
+Sep-95,183482
+Oct-95,144618
+Nov-95,139750
+Dec-95,184546
+Jan-96,71043
+Feb-96,152930
+Mar-96,250559
+Apr-96,409567
+May-96,394747
+Jun-96,272874
+Jul-96,230303
+Aug-96,375402
+Sep-96,195409
+Oct-96,173518
+Nov-96,181702
+Dec-96,258713
