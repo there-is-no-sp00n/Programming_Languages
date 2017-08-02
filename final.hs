@@ -77,11 +77,11 @@ sclist :: [Integer] -> [Integer]
 sclist jj = if odd (head jj) then (cb jj) ++ (sq jj)
 	    else (sq jj) ++ (cb jj)
 
--- this function takes a string and creates initials with the capital letters in that string
+-- this function takes two strings and creates initials with the capital letters in that string
 -- if the letter is capital then it is taken and a '.' is added to the end 
 -- a list of list is created of every uppercase letter
--- then the list of list is flattened into one item
-initials string = concat([x : "."| x <-string, x `elem` ['A'..'Z']])
+-- then the list of list is flattened into one string
+initials string string_1 = concat([x : "."| x <-string++string_1, x `elem` ['A'..'Z']])
 
 -- this function takes a string that is a sentence and then returns a list of integers
 -- each element of the new list represents the number of letters for each word in the old list
