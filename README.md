@@ -5,3 +5,5 @@ Perl
 Python
 
 Haskell
+
+Prolog
